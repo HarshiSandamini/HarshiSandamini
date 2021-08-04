@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshiSandamini
 - 👀 I’m interested in problem solving and learning new technologies.
 - 🌱 I’m currently learning CS
-- 📫 How to reach me HarshiSandamini 
+- 📫 How to reach me @hsandamini1@gmail.com
 
 <!---
 HarshiSandamini/HarshiSandamini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
